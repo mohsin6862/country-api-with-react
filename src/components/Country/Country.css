@@ -1,1 +1,11 @@
 
+.country{
+    background-color: burlywood;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 20px ;
+    border:2px solid purple;
+}
+.country img{
+    width: 200px;
+}
